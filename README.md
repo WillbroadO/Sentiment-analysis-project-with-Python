@@ -1,0 +1,2 @@
+# Sentiment-analysis-project-with-Python
+Sentiment analysis is a method that is used to analyze the opinion of targeted customers on a specific product or service offered by the company. It is used in companies to perform testing of the likeability of their products or services. The main goal of this is to figure out the WHYs behind not achieving the target sales or a product/service not being liked by the customer base.
